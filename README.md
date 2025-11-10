@@ -47,7 +47,9 @@ I used my ubunntu machine to scan both the metasploitable and kali machines via 
 
 All of the other VM's that you see are machines that I use for practice regarding CTF's. I root them and take notes on methodologies that I used to solve and then remove them from my homelab, ethical.
 
-![Opnsense settings](./images/Opnsense-settings.png)
+![Opnsense settings](./images/Opnsense-Adap-Settings.png)
+
+![Opnsense settings](./images/Opnsense-Adap2-Settings.png)
 
 Opnsense is a firewall system where you can create different firewalls based on a various amount of rules. The setup for this is a bit different from the rest, 1 adapter has to be on the NAT while another adapter has to be on the Labnet NAT Network so that I can get access to the internet while also remaining in my homelab. I don't have much experience with opnsense and but I have been playing around with the creating firewall rules such as blocking incoming and outgoing traffic to my kali ip, i'm not going to go in depth regarding that as this is just a overview.
 
