@@ -30,7 +30,7 @@ Results: The machines were up, meaning that they could be reached
 
 **note**: This command is used to see if a machine is up and running and can be reached. The -c argument is used to specify how many packets we want to send to the machine that is being pinged. Lastly, the results say 3 packets were sent and 3 were received meaning that the host is up, had the host not been up, it would've said no packets were received.
 
-![Metasploitable Scans](./images/MS3Scans.png)
+![Metasploitable Scans](./images/MS3-Scans.png)
 
 I used my metasploitable machine to scan both the ubuntu and kali machines via the following commands: 
 - ping -c 3 <kali ip>
