@@ -12,7 +12,7 @@ This is just visual of all of the VM's that I have in my homelab as of right now
 
 I have my kali machine ON the NAT Network setting which allows for it coomunicate with other VM's in my homelab and they aren't exposed to the real internet. I had made a new NAT Network called "Labnet" so it doesn't interfere with my ISP as I was having problems with this recently on my newest addition opnsense. I would try to visit an IP and it would direct me to an ISP page, which wasn't supposed to happen but when I created the labnet NAT Network and added all of the other VM's I was using to it as well, the problem was solved. This is where I spend most of my time, on the kali machine, which is why allocated the most memory and processors to this machine compared to any other.
 
-![Metasploitable3 settings](./images/Ms3Settings.png)
+![Metasploitable3 settings](./images/Ms3.Settings.png)
 
 I have the metasploitable3 machine on the Labnet NAT Network also to keep it away from the internet as it intentionally has vulnerable services so that it can be practiced on. This is always my target VM when i'm looking to practice pentesting techniques and things of that nature.
 
