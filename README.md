@@ -6,7 +6,7 @@ This personal project will be explaining what I use to conduct safe and ethical 
 
 ![Homelab overview](./images/All-VM's.png)
 
-This is just visual of all of the VM's that I have in my homelab as of right now, i'll add more to it throughout my cyberjourney. 
+This is just visual of all of the VM's that I have in my homelab as of right now, i'll add more to it throughout my cyberjourney. Everything is running on virtualbox, I tried to use VMWare in the past and it was such a hassle, this appraoch was easier for me. 
 
 ![Kali settings](./images/Kali-Settings.png)
 
