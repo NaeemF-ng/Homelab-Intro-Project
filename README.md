@@ -23,8 +23,8 @@ The ubuntu machine is also on the Labnet NAT Network kept away from the internet
 ![Kali Scans](./images/Kali-Scans.png)
 
 I used my kali machine to scan both the ubuntu and metasploitable machines via the following commands: 
-- ping -c 3 <metasploitable ip>
-- ping -c 3 <ubuntu ip>
+- ping -c 3 (metasploitable ip)
+- ping -c 3 (ubuntu ip)
 
 Results: The machines were up, meaning that they could be reached
 
@@ -33,15 +33,15 @@ Results: The machines were up, meaning that they could be reached
 ![Metasploitable Scans](./images/MS3-Scans.png)
 
 I used my metasploitable machine to scan both the ubuntu and kali machines via the following commands: 
-- ping -c 3 <kali ip>
-- ping -c 3 <ubuntu ip>
+- ping -c 3 (kali ip)
+- ping -c 3 (ubuntu ip)
 
 
 ![Ubuntu Scans](./images/Ubuntu-Scans.png)
 
 I used my ubunntu machine to scan both the metasploitable and kali machines via the following commands: 
-- ping -c 3 <kali ip>
-- ping -c 3 <metasploitable ip>
+- ping -c 3 (kali ip)
+- ping -c 3 (metasploitable ip)
 
 ![Other VM's](./images/Other-VM's.png)
 
